@@ -1,0 +1,28 @@
+.button-wrapper {
+  width: 350px;
+  max-width: 920px;
+  background-color: '#white';
+  overflow: hidden;
+  margin: auto;
+}
+
+.button {
+  background-color: #feb41d;
+  width: 100%;
+  height: 50px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  cursor: pointer;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-size: 20px;
+}

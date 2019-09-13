@@ -1,0 +1,32 @@
+.input-wrapper {
+  width: 350px;
+  max-width: 920px;
+  border-radius: 5px;
+  background-color: '#white';
+  overflow: hidden;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.input {
+  padding: 10px 15px;
+  font: small-caption;
+  font-size: 18px;
+  width: 90%;
+  color: '#blue';
+  outline: none;
+  line-height: 1.5;
+}
+
+.error {
+  border-radius: 5px;
+  padding: 10px 15px;
+  font: small-caption;
+  font-size: 18px;
+  width: 90%;
+  color: '#blue';
+  outline: none;
+  line-height: 1.5;
+  border: 1px solid red;
+  border-bottom-width: 1.5px
+}

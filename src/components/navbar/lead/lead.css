@@ -1,0 +1,24 @@
+.top-menu-lead {
+  padding: 8px;
+  background-color: #feb41d;
+  color: white;
+  display: block;
+  float: left;
+  font-size: 18px;
+  margin-right: 20px;
+  border-radius: 10px
+}
+
+a {
+  text-decoration: none;
+  color: white
+}
+
+@media screen and (max-width: 600px) {
+  .top-menu-lead {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    float: none;
+  }
+}

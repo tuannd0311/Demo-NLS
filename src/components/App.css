@@ -1,0 +1,21 @@
+body,html {
+  margin: 0 ;
+  text-align: center;
+} 
+
+.root {
+  height: '100vh',
+}
+
+.container {
+  flex: 1;
+}
+
+.content {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 0;
+}
